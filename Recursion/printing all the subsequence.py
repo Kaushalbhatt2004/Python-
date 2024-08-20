@@ -17,3 +17,10 @@ def subs (index,arr,subse):
 arr=[3,1,2]
 subse=[]
 subs(0,arr,subse)
+
+
+
+# If subsequence = [1, 2, 3], then: 
+# map(str, subsequence) produces ["1", "2", "3"]
+# " ".join(["1", "2", "3"]) produces "1 2 3"
+# print("1 2 3") prints: 1 2 3
